@@ -32,10 +32,6 @@ video, img {
   width: 100%;
 }
 .thumb { /*-- card images --*/
-  background-image: url('pix/sample.png'); /*-- sets background image --*/
-  padding-bottom: 60%; /*-- creates space below the image--*/
-  background-size: cover; /*-- sets it to cover the div --*/
-  background-position: center center; /*-- positions image in center vert. and horiz. --*/
 }
 .link {
   position: absolute; /*-- sets button position to absolute --*/
