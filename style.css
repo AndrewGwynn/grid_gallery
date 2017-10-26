@@ -28,11 +28,16 @@
   border: 1px solid #ccc; /*-- crappy border --*/
   padding: 8px; /*-- small space inside each card--*/
 }
+<<<<<<< HEAD
 video {
   width: 50%;
 }
 img {
   width:100%;
+=======
+video, img {
+  width: 100%;
+>>>>>>> 9a2994b80b9eb4192eab8703cd8d1a8dcc9154b8
 }
 .thumb { /*-- card images --*/
 }
